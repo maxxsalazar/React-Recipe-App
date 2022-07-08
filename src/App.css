@@ -14,3 +14,12 @@ body {
   border-radius: 50px;
   border: none;
 }
+.white-text {
+  color: #fff;
+}
+a.recipe-card-btn {
+  text-decoration: none;
+}
+a.recipe-card-btn:hover {
+  color: #f0f0f0;
+}
